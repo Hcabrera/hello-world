@@ -1,2 +1,2 @@
 # hello-world
-Just another silly tutorial revisited
+Just another silly tutorial.
